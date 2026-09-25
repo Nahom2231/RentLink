@@ -16,8 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RentLink.core\RentLink.core.csproj" />
+    <ProjectReference Include="..\RentLink.Core\RentLink.Core.csproj" />
     <ProjectReference Include="..\RentLink.Infrastructure\RentLink.Infrastructure.csproj" />
+    <ProjectReference Include="..\RentLink.Application\RentLink.Application.csproj" />
   </ItemGroup>
 
 </Project>
