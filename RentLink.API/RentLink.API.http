@@ -1,0 +1,6 @@
+@RentLink.API_HostAddress = http://localhost:5015
+
+GET {{RentLink.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

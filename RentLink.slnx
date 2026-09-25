@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/RentLink.Infrastructure/">
+    <Project Path="RentLink.Infrastructure/Rentlink.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="RentLink.API/RentLink.API.csproj" />
+  <Project Path="RentLink.Core/RentLink.Core.csproj" />
+</Solution>
